@@ -57,7 +57,7 @@ Preciso melhorar minhas aplicações em css, mas como um dos primeiros projetos 
 
 ## Home page do Desktop
 
-![exemplo1](./design/final/home-page-desktop.png)
+![exemplo1](./design/final/home-page-desktopp.png)
 
 ## Home page mobile
 
