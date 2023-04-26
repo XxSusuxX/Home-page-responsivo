@@ -55,11 +55,11 @@ Preciso melhorar minhas aplicações em css, mas como um dos primeiros projetos 
 
 # Resultado final
 
-## Home page do Desktop
+## Página inicial do Desktop
 
 ![exemplo1](./design/final/home-page-desktopp.png)
 
-## Home page mobile
+## Página inicial mobile
 
 ![exemplo2](./design/final/home-page-mobile1.png)
 
