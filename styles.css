@@ -211,6 +211,7 @@ button {
 .btn-close {
   display: none;
 }
+ 
 @media (min-width: 260px) and (max-width: 600px) {
   .logo {
     top: 0;
@@ -219,7 +220,7 @@ button {
     right: 18px;
     position: relative;
   }
-  /*>>>>>menu*/
+  /*>>>>>menu-responsivo*/
   .active-menu {
     display: block;
   }
@@ -317,11 +318,11 @@ button {
   #header a {
     padding: 0px;
   }
-  /*<<<<<<menu*/
+  /*<<<<<<menu-responsivo*/
   nav {
     width: 95vw;
   }
-  /*conteudo>>>>>>>>*/
+  /*conteudo-responsivo>>>>>>>>*/
   .container1 {
     align-items: center;
     display: flex;
@@ -392,7 +393,7 @@ button {
     background-size: 100% 80%;
   }
 
-  /*<<<<<conteudo*/
+  /*<<<<<conteudo-responsivo*/
   * {
     box-sizing: border-box;
     padding: 0;
