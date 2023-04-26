@@ -359,9 +359,10 @@ button {
     top: 43vh;
   }
   .content img {
-    position: inherit;
+    position: relative;
     bottom: -450px;
-    left: -300px;
+    left: 2px;
+    min-width: 37px;
   }
   .icon-databiz {
     width: 114px;
