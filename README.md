@@ -73,8 +73,6 @@ Nome - Gabriel Suenaga
 
 Email - gabriel.hneus@gmail.com
 
-Twitter - [@amo_pobres](https://twitter.com/amo_pobre)
-
 Site - (**Portfólio em breve**)
 
 ## Tem algum feedback ?
