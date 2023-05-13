@@ -6,6 +6,7 @@ html {
   font-family: "Epilogue", sans-serif;
   font-size: 18px;
   font-weight: 500;
+  overflow-x: hidden;
 }
 .menu {
   width: 90%;
