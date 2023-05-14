@@ -335,7 +335,7 @@ button {
   }
   .content {
     top: 429px;
-    right: 0px;
+    right: 16px;
     left: unset;
     max-width: 100%;
     display: flex;
@@ -362,7 +362,7 @@ button {
   .content img {
     position: relative;
     bottom: -450px;
-    left: -12px;
+    left: 7px;
     min-width: 37px;
   }
   .icon-databiz {
