@@ -85,6 +85,7 @@ html {
 .content h1 {
   font-size: 70px;
   font-weight: 700;
+  width: 300px;
 }
 .content p {
   color: #696969;
