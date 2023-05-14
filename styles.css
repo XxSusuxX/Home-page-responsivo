@@ -362,7 +362,7 @@ button {
   .content img {
     position: relative;
     bottom: -450px;
-    left: 2px;
+    left: -15px;
     min-width: 37px;
   }
   .icon-databiz {
@@ -378,7 +378,7 @@ button {
     height: 20px;
   }
   .icon-maker {
-    width: 83px;
+    width: 98px;
     height: 24px;
   }
 
